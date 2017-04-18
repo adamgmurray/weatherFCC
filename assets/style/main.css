@@ -1,0 +1,42 @@
+body{
+background-image: url('http://wallpapercave.com/wp/FyJpNfo.jpg');
+color: white;
+font-family: 'Raleway', sans-serif;
+}
+.weather-container{
+width: 480px;
+height: 480px;
+justify-content: center;
+align-items: center;
+padding: 20px;
+background-color: rgba(95,152,151,0.5);
+border-radius: 20px;
+}
+#weatherLabel{
+font-size: 3vw;
+text-decoration: underline;
+}
+#weather{
+font-size: 5vw;
+  order: 1;
+}
+#tempLabel{
+font-size: 3vw;
+text-decoration: underline;
+}
+#temp{
+font-size: 5vw;
+}
+button{
+color: white;
+font-family: 'Raleway', sans-serif;
+font-size: 2vw;
+background-color: Transparent;
+border-radius: 3px;
+border-style: solid;
+border-width: 1px;
+}
+.butt1{
+}
+.butt2{
+}
